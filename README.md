@@ -1,7 +1,6 @@
 # Calmaria Spa
 
-Projeto em HTML e CSS do Calmaria Spa. Desafio da formação de SASS e CSS: estilizando um site.
-
+Projeto em HTML e CSS focando em conceitos de acessibilidade em CSS.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Calmaria Spa**
