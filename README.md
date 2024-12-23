@@ -6,7 +6,7 @@ Projeto em HTML e CSS focando em conceitos de acessibilidade em CSS.
 | :sparkles: Nome        | **Calmaria Spa**
 | :label: Tecnologias | HTML e CSS.
 | :rocket: URL         | https://andreduarte99.github.io/calmaria-spa/
-| :fire: Desafio     | https://cursos.alura.com.br/course/sass-css-estilizando-site
+| :fire: Desafio     | https://cursos.alura.com.br/course/css-ajustando-acessibilidade-visual-projeto
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
 
